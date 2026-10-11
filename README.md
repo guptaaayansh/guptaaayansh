@@ -185,9 +185,6 @@ Contributed across Flutter frontend and NestJS backend on a production social ne
 
 <img src="https://streak-stats.demolab.com?user=guptaaayansh&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/guptaaayansh/guptaaayansh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
