@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sandesh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sandesh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Spring+Boot+%7C+Spring+Security;Building+Secure+REST+APIs+%26+Microservices;JWT+Auth+%7C+OAuth2+%7C+PostgreSQL+%7C+Docker;Clean+Architecture+%7C+Production-Grade+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Java+Developer;Software+Developer;Backend+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -144,16 +144,6 @@ Spotify-inspired music streaming backend with song catalogue management, playlis
 
 ## ⬡ Experience
 
-**Freelance Software Developer** · *Dec 2025 – Present*
-
-- Delivering backend systems and APIs for clients under NDA
-- Full project lifecycle: requirements → architecture → delivery
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
----
-
 **Software Engineering Intern** · *MiloJulo, Mumbai · Jan 2026 – Oct 2026*
 
 Contributed across Flutter frontend and NestJS backend on a production social networking platform shipped to both App Stores.
@@ -169,21 +159,13 @@ Contributed across Flutter frontend and NestJS backend on a production social ne
 
 ---
 
-## ⬡ Achievements
+**Freelance Software Developer** · *Dec 2025 – Present*
 
-<div align="center">
+- Delivering backend systems and APIs for clients under NDA
+- Full project lifecycle: requirements → architecture → delivery
 
-| Recognition | Details |
-|:---:|:---|
-| 🚀 **Production Launch** | Led frontend engineering on MiloJulo — shipped to both iOS App Store and Google Play |
-| 🔐 **Security Architecture** | Designed JWT refresh-token rotation system with full JTI revocation audit chain in DB |
-| ⚙️ **Reusable Auth Service** | Built drop-in Spring Boot auth microservice (JWT + Google OAuth2 + PostgreSQL) |
-| 🎟️ **Atomic Transactions** | `@Transactional` ticket purchase flow across 3 tables + QR generation — zero partial writes |
-| ⚡ **Real-Time Systems** | Socket.IO chat with optimistic updates and SENDING → CONFIRMED → FAILED state machine |
-| 🏗️ **Clean Architecture** | Consistent layered architecture across every project: domain → data → service → API |
-| 🎓 **Academic** | B.Sc. IT, University of Mumbai |
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ---
 
