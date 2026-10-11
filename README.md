@@ -238,58 +238,6 @@ Embedded with the core engineering team on MiloJulo, a production social network
 
 ---
 
-## ⬡ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaaayansh&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&radius=6" width="100%" />
-
-</div>
-
----
-
-## ⬡ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaaayansh/guptaaayansh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaaayansh/guptaaayansh/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/guptaaayansh/guptaaayansh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## ⬡ Current Focus
-
-```yaml
-learning:
-  - Spring Boot microservices patterns and inter-service communication
-  - Advanced JPA / Hibernate — caching, lazy loading, query optimisation
-  - Docker and containerisation for Java applications
-  - Spring Batch and scheduled job processing
-
-building:
-  - Reusable Spring Boot auth starter (JWT + OAuth2 + PostgreSQL drop-in)
-  - Expanding EzRent with full lease lifecycle and payment tracking
-  - Well-documented open-source Java backend projects
-
-exploring:
-  - Redis for caching and session management in Spring Boot
-  - Kafka for event-driven architecture between services
-  - Kubernetes basics for Java service deployment
-
-open_to:
-  - Java / Spring Boot backend engineering roles
-  - Software development positions (any Java-focused stack)
-  - Backend-heavy product engineering teams
-  - Remote or Mumbai-based opportunities
-```
-
----
-
 ## ⬡ Connect
 
 <div align="center">
