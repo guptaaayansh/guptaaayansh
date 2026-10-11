@@ -19,11 +19,13 @@ role:       Software Developer — Java · Spring Boot · Backend Engineering
 location:   Mumbai, India
 ```
 
-Software developer who builds production-grade systems end to end. I led frontend engineering on **MiloJulo** — a professional and interest-based social networking platform — shipping real-time messaging, WebSocket-driven notifications, geolocation-aware feeds, deep-link routing, and FCM push personalization across both iOS and Android at launch quality. That experience gave me a strong foundation in system design, API contracts, and what it takes to ship to real users.
+Java software developer with hands-on experience building and shipping production systems. I design secure REST APIs, architect clean layered backends, and take ownership of features from database schema through to deployment.
 
-My current and primary focus is the **Java backend**. I architect stateless REST APIs with Spring Boot 3 and Spring Security 6, design JWT authentication systems with refresh-token rotation and JTI-based revocation, model relational schemas in PostgreSQL, and apply clean layered architecture — domain models, repository interfaces, service abstractions, DTO mapping — consistently across every project. Every backend I build is designed to be maintainable, secure, and production-ready from day one.
+My core stack is **Java + Spring Boot** — Spring Security, JPA/Hibernate, PostgreSQL, JWT authentication, OAuth2. I care about writing code that is correct, maintainable, and built to last — not just code that compiles.
 
-**Open To:** Java / Spring Boot backend positions · Software development roles · Backend-heavy product engineering · Teams that value clean architecture and shipped products
+Beyond backend, I have real production experience on the frontend side through internship work, which gives me a strong understanding of the full system — API contracts, data flow, and how backend decisions affect the product.
+
+**Open To:** Java / Spring Boot roles · Backend engineering · Software development positions · Mumbai or remote
 
 ---
 
