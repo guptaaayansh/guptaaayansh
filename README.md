@@ -37,6 +37,10 @@ Beyond backend, I have real production experience on the frontend side through i
 
 [![Languages](https://skillicons.dev/icons?i=java,python,dart,sql&theme=dark)](https://skillicons.dev)
 
+**Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
 **Mobile**
 
 [![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,firebase&theme=dark)](https://skillicons.dev)
@@ -48,10 +52,6 @@ Beyond backend, I have real production experience on the frontend side through i
 ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white)
 ![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=spring,hibernate,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 **Cloud, DevOps & Tooling**
 
