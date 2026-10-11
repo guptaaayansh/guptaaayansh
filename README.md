@@ -15,17 +15,15 @@
 ```yaml
 name:       Sandesh Gupta
 alias:      guptaaayansh
-role:       Software Developer — Java & Spring Boot
+role:       Software Developer — Java · Spring Boot · Backend Engineering
 location:   Mumbai, India
 ```
 
-Java software developer focused on building **production-grade backend systems** with Spring Boot 3 and Spring Security 6. I design and implement stateless REST APIs, JWT-based authentication architectures, relational database schemas, and clean layered codebases that are maintainable and scalable.
+Software developer who builds production-grade systems end to end. I led frontend engineering on **MiloJulo** — a professional and interest-based social networking platform — shipping real-time messaging, WebSocket-driven notifications, geolocation-aware feeds, deep-link routing, and FCM push personalization across both iOS and Android at launch quality. That experience gave me a strong foundation in system design, API contracts, and what it takes to ship to real users.
 
-My approach is architecture-first: every project starts with entity design, repository contracts, and service boundaries before a single controller is written. I apply **clean architecture principles** consistently — domain models, abstract repository interfaces, service layers, DTO mapping — across every Java project.
+My current and primary focus is the **Java backend**. I architect stateless REST APIs with Spring Boot 3 and Spring Security 6, design JWT authentication systems with refresh-token rotation and JTI-based revocation, model relational schemas in PostgreSQL, and apply clean layered architecture — domain models, repository interfaces, service abstractions, DTO mapping — consistently across every project. Every backend I build is designed to be maintainable, secure, and production-ready from day one.
 
-Currently deepening expertise in **Java ecosystem fundamentals**: JVM internals, Spring framework internals, advanced JPA/Hibernate, and distributed system patterns.
-
-**Open To:** Java / Spring Boot backend positions · Software development roles · Backend engineering at product companies · Teams that value clean code and solid architecture
+**Open To:** Java / Spring Boot backend positions · Software development roles · Backend-heavy product engineering · Teams that value clean architecture and shipped products
 
 ---
 
@@ -172,6 +170,24 @@ Contributed to backend and frontend development of a web-based event management 
 | 🎟️ **Complex Transactions** | Atomic `@Transactional` ticket purchase flow across 3 tables + QR generation |
 | 🏗️ **Clean Architecture** | Consistent layered architecture across every project: domain → data → API |
 | 🔑 **OAuth2 Integration** | Implemented Google OAuth2 with auto-provisioning via Spring Security OAuth2 Client |
+| 🎓 **Academic** | B.Sc. IT, University of Mumbai |
+
+</div>
+
+---
+
+## ⬡ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 🚀 **Production Launch** | Led frontend engineering on MiloJulo — shipped to both iOS App Store and Google Play |
+| 🔐 **Security Architecture** | Designed JWT refresh-token rotation system with full JTI revocation audit chain in DB |
+| ⚙️ **Reusable Auth Service** | Built drop-in Spring Boot auth microservice (JWT + Google OAuth2 + PostgreSQL) |
+| 🎟️ **Atomic Transactions** | `@Transactional` ticket purchase flow across 3 tables + QR generation — zero partial writes |
+| ⚡ **Real-Time Systems** | Socket.IO chat with optimistic updates and SENDING → CONFIRMED → FAILED state machine |
+| 🏗️ **Clean Architecture** | Consistent layered architecture across every project: domain → data → service → API |
 | 🎓 **Academic** | B.Sc. IT, University of Mumbai |
 
 </div>
