@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Java+Developer;Software+Developer;Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+backends+that+are+secure+and+production-ready.;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL+%E2%80%A2+REST+APIs;Turning+good+architecture+into+shipped+products.)](https://git.io/typing-svg)
 
 </div>
 
