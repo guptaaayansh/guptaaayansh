@@ -193,23 +193,6 @@ Embedded with the core engineering team on MiloJulo, a production social network
 
 | Recognition | Details |
 |:---:|:---|
-| 🔐 **Security Architecture** | Designed JWT refresh-token rotation system with full JTI revocation audit chain |
-| ⚙️ **Production Backend** | Built stateless Spring Boot auth service reusable across any Java project |
-| 🎟️ **Complex Transactions** | Atomic `@Transactional` ticket purchase flow across 3 tables + QR generation |
-| 🏗️ **Clean Architecture** | Consistent layered architecture across every project: domain → data → API |
-| 🔑 **OAuth2 Integration** | Implemented Google OAuth2 with auto-provisioning via Spring Security OAuth2 Client |
-| 🎓 **Academic** | B.Sc. IT, University of Mumbai |
-
-</div>
-
----
-
-## ⬡ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
 | 🚀 **Production Launch** | Led frontend engineering on MiloJulo — shipped to both iOS App Store and Google Play |
 | 🔐 **Security Architecture** | Designed JWT refresh-token rotation system with full JTI revocation audit chain in DB |
 | ⚙️ **Reusable Auth Service** | Built drop-in Spring Boot auth microservice (JWT + Google OAuth2 + PostgreSQL) |
