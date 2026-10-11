@@ -142,20 +142,48 @@ Spotify-inspired music streaming backend with song catalogue management, playlis
 
 ## ⬡ Experience
 
-**Software Engineering Intern**
-*Event Management Platform — Mumbai*
-*Jan 2026 – Jun 2026*
+**Freelance Software Developer**
+*Independent — Remote*
+*Dec 2025 – Present*
 
-Contributed to backend and frontend development of a web-based event management system across the full SDLC — from requirements and schema design through to deployment and showcase.
+Delivering software solutions for clients across backend development and application engineering. Client projects are under NDA; scope covers API development, database design, and custom backend systems.
 
-- Designed and implemented REST endpoints for event creation, participant registration, and scheduling using Spring Boot
-- Built normalized PostgreSQL schemas for event entities, user roles, and booking records
-- Integrated frontend components with the backend REST API
-- Presented the completed platform at the semester-end internship showcase
+- Designed and delivered backend systems tailored to individual client requirements
+- Managed complete project lifecycle: requirements, architecture, implementation, and handoff
+- Maintained ongoing client relationships with iterative delivery
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+**Software Engineering Intern — Flutter & Backend**
+*MiloJulo · Professional & Interest-Based Social Platform — Mumbai*
+*Jan 2026 – Oct 2026*
+
+Embedded with the core engineering team on MiloJulo, a production social networking platform targeting simultaneous launch on iOS App Store and Google Play. Contributed across both the Flutter frontend and the NestJS backend throughout the engagement.
+
+**Frontend (Flutter):**
+- Owned the frontend for features spanning the full social graph: feed, posts, DMs, group chat, geolocation map, connections, and notifications
+- Implemented real-time messaging with Socket.IO — optimistic message inserts, SENDING → CONFIRMED → FAILED state machine with 12s timeout
+- Built FCM push notification pipeline: foreground avatar compositing, personalized push copy, deep-link tap routing to the specific in-app target (chat, post, profile, group)
+- Engineered deep-link handling for `/p/:id` and `/u/:username` share links with race-safe cold-start resolution, duplicate URI deduplication, and own-profile tab-switch logic
+- Designed and shipped the geolocation-aware Nearby feed and live user map with server-side individual pin rendering
+- Wired the full auth lifecycle: Google/Apple OAuth2, OTP, JWT refresh interceptor, HTTP-only cookie, session restore on cold start
+
+**Backend (NestJS · PostgreSQL):**
+- Contributed to the notifications overhaul: personalized push copy composed server-side, actor enrichment (`name`, `avatarUrl`), like-aggregation math, and FCM retry logic for transient send failures
+- Worked on map service: removed server-side clustering in favour of real individual pins at all zoom levels, eliminating the "teleport" visual artifact at cluster threshold crossings
+- Contributed to feed distance calculation: integrated viewer's saved Primary Area into `GET /feed/home` so Home posts show distance without requiring live GPS
+- Participated in backend PR workflow off the `production` branch — individual PRs per feature, reviewed and merged before deployment
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
