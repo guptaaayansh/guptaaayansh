@@ -6,24 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Production+Mobile+Apps+with+Flutter;Crafting+Secure+Spring+Boot+Backends;Full+Stack+Engineer+%7C+Java+%2B+Dart+%2B+TypeScript;Turning+Architecture+Decisions+into+Shipped+Products)](https://git.io/typing-svg)
 
-<br/>
-
-![University](https://img.shields.io/badge/B.Sc.%20IT-University%20of%20Mumbai-6D28D9?style=flat-square&logo=academia&logoColor=white)
-![Year](https://img.shields.io/badge/Final%20Year-Information%20Technology-7C3AED?style=flat-square)
-![Location](https://img.shields.io/badge/📍%20Mumbai-India-8B5CF6?style=flat-square)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/guptaaayansh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-gupta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshguptasgsg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptaaayansh)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=guptaaayansh&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/guptaaayansh?color=6D28D9&style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/guptaaayansh?color=7C3AED&style=flat-square&logo=github&label=Total+Stars)
 
 </div>
 
