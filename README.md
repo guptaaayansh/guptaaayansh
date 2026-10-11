@@ -37,6 +37,10 @@ Beyond backend, I have real production experience on the frontend side through i
 
 [![Languages](https://skillicons.dev/icons?i=java,python,dart,sql&theme=dark)](https://skillicons.dev)
 
+**Mobile**
+
+[![Mobile](https://skillicons.dev/icons?i=flutter&theme=dark)](https://skillicons.dev)
+
 **Backend & Databases**
 
 [![Backend](https://skillicons.dev/icons?i=spring,hibernate,postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
