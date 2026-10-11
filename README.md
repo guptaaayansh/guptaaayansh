@@ -43,15 +43,7 @@ Beyond backend, I have real production experience on the frontend side through i
 
 **Mobile**
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,firebase&theme=dark)](https://skillicons.dev)
-
-![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![FCM](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Maps SDK](https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark)](https://skillicons.dev)
 
 **Cloud, DevOps & Tooling**
 
