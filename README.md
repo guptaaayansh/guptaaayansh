@@ -25,7 +25,7 @@ My core stack is **Java + Spring Boot** — Spring Security, JPA/Hibernate, Post
 
 Beyond backend, I have real production experience on the frontend side through internship work, which gives me a strong understanding of the full system — API contracts, data flow, and how backend decisions affect the product.
 
-**Open To:** Java / Spring Boot roles · Backend engineering · Software development positions · Mumbai or remote
+**Open To:** Java / Spring Boot roles · Backend engineering · Software development positions
 
 ---
 
